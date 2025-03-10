@@ -1,7 +1,9 @@
 <h1 align="center">Counter App: a Start2Impact project</h1>
 <h3 align="center">This is a simple web application developed in JavaScript that serves as a counter. The user initially sees the value 0 and can increment or decrement it by clicking the "+" and "-" buttons.</h3>
 
-<img align="center" alt="counter-screenshot" src="./test counter/img/counter-screenshot.PNG">
+<p align="center">
+  <img alt="counter-screenshot" src="./test counter/img/counter-screenshot.PNG">
+</p>
 
 ## ⭐️ Show Your Support
 
