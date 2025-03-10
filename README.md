@@ -2,7 +2,7 @@
 <h3 align="center">This is a simple web application developed in JavaScript that serves as a counter. The user initially sees the value 0 and can increment or decrement it by clicking the "+" and "-" buttons.</h3>
 
 <p align="center">
-  <img alt="counter-screenshot" src="./test counter/img/counter-screenshot.PNG">
+  <img alt="counter-screenshot" src="./img/counter-screenshot.PNG">
 </p>
 
 ## ⭐️ Show Your Support
