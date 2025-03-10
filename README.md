@@ -26,7 +26,7 @@ Thank you for your support! 🌟
 
 ## 🖥️ Execution Instructions
 <ul>
-<li>Clone the repository. Link: <strong>[Insert Link Here]</strong></li>
+<li>Clone the repository. Link: <strong>https://jpier34.github.io/Counter/</strong></li>
 <li>Open the <b>index.html</b> file in a <b>browser.</b></li>
 <li>Use the buttons to change the <b>counter value.</b></li>
 </ul>
